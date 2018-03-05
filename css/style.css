@@ -12,7 +12,7 @@ h2{
    color: white;
 }
 body {
-   background-image: url("universe.jpeg");
+   background-image: url("../img/universe.jpeg");
    background-size:     cover;
    background-repeat:   no-repeat;
    background-position: center center;
