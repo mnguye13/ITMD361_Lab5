@@ -13,9 +13,9 @@ h2{
 }
 body {
    background-image: url("../img/universe.jpeg");
-   background-size:     cover;
-   background-repeat:   no-repeat;
    background-position: center center;
+   background-repeat: no-repeat;
+   background-size: cover;
    background-color: 	black;
 }
 table{
@@ -41,9 +41,19 @@ td {
     width: 80%;
 }
 footer {
-    padding: 1em;
+    font-size: 15px;
+    padding: 5em;
     color: white;
-    background-color: black;
     clear: left;
     text-align: center;
+}
+
+a{
+  color:White;
+  font-weight: bold;
+  font-size: 30px;
+  text-decoration: none;
+}
+a:hover, a:active {
+  color: red;
 }
